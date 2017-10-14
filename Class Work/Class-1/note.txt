@@ -1,0 +1,5 @@
+#create project
+django-admin startproject projectName
+
+#run django server
+python3 manage.py runserver
